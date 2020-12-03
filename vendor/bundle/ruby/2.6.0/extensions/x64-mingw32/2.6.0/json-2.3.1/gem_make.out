@@ -1,0 +1,13 @@
+current directory: C:/Users/Gleb/api_sinatra_psql/vendor/bundle/ruby/2.6.0/gems/json-2.3.1/ext/json
+C:/Ruby26-x64/bin/ruby.exe -I C:/Ruby26-x64/lib/ruby/2.6.0 -r ./siteconf20201109-12476-u2brgl.rb extconf.rb
+creating Makefile
+
+current directory: C:/Users/Gleb/api_sinatra_psql/vendor/bundle/ruby/2.6.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" clean
+
+current directory: C:/Users/Gleb/api_sinatra_psql/vendor/bundle/ruby/2.6.0/gems/json-2.3.1/ext/json
+make "DESTDIR="
+make: Цель «all» не требует выполнения команд.
+
+current directory: C:/Users/Gleb/api_sinatra_psql/vendor/bundle/ruby/2.6.0/gems/json-2.3.1/ext/json
+make "DESTDIR=" install

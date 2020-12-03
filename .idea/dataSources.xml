@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sinatra_seq_dev@localhost" uuid="2cccbf84-b19c-4204-9547-45a854f29e64">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sinatra_seq_dev</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sinatra_seq_test@localhost" uuid="11efe944-d933-42c3-8eae-08241d357d0b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sinatra_seq_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sinatra_seq_prod@localhost" uuid="0db2d06b-3efb-4a66-9383-358b03f29d03">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/sinatra_seq_prod</jdbc-url>
+    </data-source>
+  </component>
+</project>
